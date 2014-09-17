@@ -3,7 +3,7 @@ Package.describe({
   summary: "Transition effects for off-canvas views.",
   version: "1.0.0",
   name: "jelenajjo:meteor-sidebar-transitions",
-  git: "https://github.com/jelenajjo/meteor-sidebar-transitions.git",
+  git: "https://github.com/jelenajjo/meteor-sidebar-transitions.git"
 });
 
 
