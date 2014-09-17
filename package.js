@@ -1,7 +1,6 @@
 
 Package.describe({
-  summary: "Transition effects for off-canvas views. Source: http://tympanus.net/codrops/2013/08/28/transitions-for-off-canvas-navigations/
-",
+  summary: "Transition effects for off-canvas views.",
   version: "1.0.0",
   name: "jelenajjo:meteor-sidebar-transitions",
   git: "https://github.com/jelenajjo/meteor-sidebar-transitions.git",
